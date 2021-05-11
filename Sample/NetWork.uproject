@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00390455-46F9-50A4-5C02-CA8BD430250B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NetWork",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine"
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "NetWork",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "C:\\Prj_UE4"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
